@@ -8,6 +8,3 @@ It uses following technologies:
 
 #Screenshots
 ![Alt text](https://github.com/Waterbyte/JSon-Sample-App/blob/master/device-2017-06-08-141116.png )
-![Alt text](https://github.com/Waterbyte/JSon-Sample-App/blob/master/device-2017-06-08-141110.png )
-![Alt text](https://github.com/Waterbyte/JSon-Sample-App/blob/master/device-2017-06-08-141138.png )
-
